@@ -1,0 +1,21 @@
+.cadastro {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 350px;
+  font-family: Arial, sans-serif;
+}
+
+input, select, textarea, button {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}

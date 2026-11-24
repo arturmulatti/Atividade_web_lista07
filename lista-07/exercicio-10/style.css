@@ -1,0 +1,17 @@
+.container-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.caixa {
+  width: 120px;
+  height: 120px;
+  background-color: #3b82f6;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 13</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p>Finalidade do boostrap: É um framework front-end de código aberto que fornece componentes prontos e um sistema de grade responsivo para acelerar o desenvolvimento de sites.<br>
+
+container: Centraliza o conteúdo na página e define margens laterais responsivas.<br>
+
+row: Cria uma linha horizontal que agrupa e alinha colunas dentro do sistema de grid.<br>
+
+col: Define uma coluna dentro de uma row, dividindo o espaço horizontal (baseado em 12 colunas).<br>
+
+btn: Classe base que aplica espaçamento, bordas e comportamento de botão a links ou button.<br>
+
+btn-primary: Modificador de cor que estiliza o botão com a cor principal do tema (azul padrão).<br>
+
+card: Cria um container flexível com bordas arredondadas e espaçamento interno para exibir conteúdos agrupados.</p>
+</body>
+</html>

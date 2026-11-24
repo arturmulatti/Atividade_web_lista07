@@ -1,0 +1,16 @@
+body { margin: 0; }
+
+.tela-cheia {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.caixa-central {
+  padding: 30px;
+  background-color: #0d6efd;
+  color: white;
+  border-radius: 8px;
+}
+

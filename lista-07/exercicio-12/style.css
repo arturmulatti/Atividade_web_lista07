@@ -1,0 +1,14 @@
+.grade {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  max-width: 300px;
+}
+
+.grade div {
+  background-color: #e2e8f0;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 4px;
+}

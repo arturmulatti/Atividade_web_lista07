@@ -1,0 +1,5 @@
+let notas = [7, 5, 9, 8, 6];
+//notas[0] retorna 7 (o primeiro elemento fica no índice 0).
+//notas[2] retorna 9 (terceiro elemento).
+//notas.length retorna 5, que representa a quantidade total de elementos dentro do array.
+//Para alterar a posição 1 para 10: notas[1] = 10;.
